@@ -72,4 +72,4 @@ int main()
 		right--;
 	}
 	printf("%s", ch_2);
-}
+}//hello
