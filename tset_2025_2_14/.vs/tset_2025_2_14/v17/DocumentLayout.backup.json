@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\c_language_learning\\tset_2025_2_14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BA8A46-FC36-477D-AA26-227E0E755AE7}|tset_2025_2_14\\tset_2025_2_14.vcxproj|D:\\code\\c_language_learning\\tset_2025_2_14\\tset_2025_2_14\\test_2025_2_14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D9BA8A46-FC36-477D-AA26-227E0E755AE7}|tset_2025_2_14\\tset_2025_2_14.vcxproj|solutionrelative:tset_2025_2_14\\test_2025_2_14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_2025_2_14.c",
+              "DocumentMoniker": "D:\\code\\c_language_learning\\tset_2025_2_14\\tset_2025_2_14\\test_2025_2_14.c",
+              "RelativeDocumentMoniker": "tset_2025_2_14\\test_2025_2_14.c",
+              "ToolTip": "D:\\code\\c_language_learning\\tset_2025_2_14\\tset_2025_2_14\\test_2025_2_14.c*",
+              "RelativeToolTip": "tset_2025_2_14\\test_2025_2_14.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-14T05:44:49.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
