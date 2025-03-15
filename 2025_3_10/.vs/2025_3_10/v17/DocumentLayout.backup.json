@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C_learning\\2025_3_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{013A61A6-4ADB-422B-BE53-A42AD06BF9AA}|2025_3_10\\2025_3_10.vcxproj|D:\\code\\C_learning\\2025_3_10\\2025_3_10\\tesr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{013A61A6-4ADB-422B-BE53-A42AD06BF9AA}|2025_3_10\\2025_3_10.vcxproj|solutionrelative:2025_3_10\\tesr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tesr.c",
+              "DocumentMoniker": "D:\\code\\C_learning\\2025_3_10\\2025_3_10\\tesr.c",
+              "RelativeDocumentMoniker": "2025_3_10\\tesr.c",
+              "ToolTip": "D:\\code\\C_learning\\2025_3_10\\2025_3_10\\tesr.c*",
+              "RelativeToolTip": "2025_3_10\\tesr.c*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T08:05:51.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
