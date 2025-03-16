@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\changhuanran\\source\\repos\\2025_3_16_homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{558C7EA8-1DE8-49EF-9997-7382E40E17BD}|2025_3_16_homework\\2025_3_16_homework.vcxproj|C:\\Users\\changhuanran\\source\\repos\\2025_3_16_homework\\2025_3_16_homework\\homework.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{558C7EA8-1DE8-49EF-9997-7382E40E17BD}|2025_3_16_homework\\2025_3_16_homework.vcxproj|solutionrelative:2025_3_16_homework\\homework.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 157,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "homework.c",
+              "DocumentMoniker": "C:\\Users\\changhuanran\\source\\repos\\2025_3_16_homework\\2025_3_16_homework\\homework.c",
+              "RelativeDocumentMoniker": "2025_3_16_homework\\homework.c",
+              "ToolTip": "C:\\Users\\changhuanran\\source\\repos\\2025_3_16_homework\\2025_3_16_homework\\homework.c",
+              "RelativeToolTip": "2025_3_16_homework\\homework.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-16T12:09:17.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
