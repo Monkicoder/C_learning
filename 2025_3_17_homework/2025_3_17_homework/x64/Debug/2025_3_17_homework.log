@@ -1,0 +1,4 @@
+﻿  homework.c
+D:\code\C_learning\2025_3_17_homework\2025_3_17_homework\homework.c(31,4): warning C4033: “TASK_2”必须返回值
+D:\code\C_learning\2025_3_17_homework\2025_3_17_homework\homework.c(80,1): warning C4715: “TASK_2”: 不是所有的控件路径都返回值
+  2025_3_17_homework.vcxproj -> D:\code\C_learning\2025_3_17_homework\x64\Debug\2025_3_17_homework.exe
